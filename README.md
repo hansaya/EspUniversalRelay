@@ -8,3 +8,7 @@ Features
 * Wide input voltage range
 * Super capacitor to harvest energy from a garage door switch.
 * Carbon and temperature sensor
+
+#TODO
+* Add a 5v and 3v out pins
+* Add GND pins for the inputs
